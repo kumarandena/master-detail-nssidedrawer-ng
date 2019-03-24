@@ -1,0 +1,24 @@
+@import '~nativescript-theme-core/css/core.light.css';
+@import url("~/myapp.css");
+
+.btn {
+    font-size: 18;
+}
+
+.drawer-container {
+    text-align: center;
+    vertical-align: center;
+}
+
+.drawer-heading {
+    color: white;
+    font-family: "Varela", "varela-regular"; 
+    font-size: 24; 
+}
+
+.drawer-item {
+    color: white;
+    font-family: "Varela", "varela-regular"; 
+    font-size: 18;
+    background-color: #4673c1;
+}
